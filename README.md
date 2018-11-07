@@ -1,6 +1,6 @@
-## Slide Decks for General Chapter Events
+## Slide Decks for Chapter Events
 
-This repository contains slide decks and other written material for general
+This repository contains slide decks and other written material for
 SME DFW (Dallas-Fort Worth) Chapter events.
 
 Materials for specific chapter events (e.g. workshops/walkthroughs or
